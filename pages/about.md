@@ -1,23 +1,23 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Khuslen Dalaitseren is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+{Junior year student}
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+{Sophomore year student}
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
+{Supervisor: Molomjamts}
 
 
 #### <a name="education"></a>ecucation
-{Insert text here}
+{Bachelor's}
 
 
 #### <a name="cvandresume"></a>cv and resume
