@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Khuslen Dalaitseren
+description: Khuslen Dalaitseren is a junior year student at Mongolia International University. She studies Software Engineering.
 keywords: statistics, data analytics
 ---
 
