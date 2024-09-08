@@ -18,10 +18,10 @@ description: Student's Courses
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
+#### [Machine Learning] (MIU; Fall, 2024)
 
 - [Site](https://bsharvey.github.io/)
-- [My Portfolio](https://username.github.io/)
+- [My Portfolio](https://khuslendalai.github.io/)
 - [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
 
